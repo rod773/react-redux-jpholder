@@ -1,0 +1,4 @@
+export const actionTypes = {
+  users: { IS_LOGGED_IN: "IS_LOGGED_IN", IS_LOGGED_OUT: "IS_LOGGED_OUT" },
+  ui: { MODAL_ACTIVE: "MODAL_ACTIVE", MODAL_INACTIVE: "MODAL_INACTIVE" },
+};
